@@ -1,5 +1,7 @@
 # learn-cantrill-io-labs
 
+This is a local copy
+
 ![DEMOGRID](https://github.com/acantril/learn-cantrill-io-labs/raw/master/demogrid.png)
 
 Welcome .. this repo stores a collection of freely available demos and advanced demos for AWS (and in the future other cloud platforms)
